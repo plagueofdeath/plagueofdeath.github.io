@@ -9,3 +9,5 @@ iam Shadow
 PlasmaLeProto
 PlasmaProto1
 AustinNMI
+Alfonso Hegao
+ZygoteTrance
